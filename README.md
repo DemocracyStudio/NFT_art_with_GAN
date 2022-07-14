@@ -5,4 +5,4 @@ The standard in NFT collections is usually of 10.000 single items. I've been usi
 
 I am basically asking my GAN models to reproduce the style of Camelia's paintings, which it doesn't achieve yet but I can still get some interesting results with some of them. 
 
-A presentation of the early results is available [here]()
+A presentation of the early results is available [here](https://youtu.be/KO8MXMN6oL4)
