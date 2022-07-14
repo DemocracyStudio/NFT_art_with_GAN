@@ -1,6 +1,6 @@
 # NFT_art_with_GAN
 
-![camelia otero](https://drive.google.com/file/d/1TnbGjy2-fG3-jBYoOAQo4cE9D8RHlHEE/view?usp=sharing)
+![camelia otero](cameliaotero.png)
 
 This repository gathers the code and information about NFT art generation with GANs - Generative adversarial networks. 
 
